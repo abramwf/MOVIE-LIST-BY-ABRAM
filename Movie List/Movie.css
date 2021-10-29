@@ -1,0 +1,110 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    border: 5px solid;
+    border-color:rgb(202, 117, 117);
+    border-radius: 25px;
+}
+
+ul li {
+    display: inline-block;
+} 
+
+div {
+    border-color:rgb(202, 117, 117) ;
+    border:5px solid;
+    border-radius: 30px;
+}
+
+ul li img {
+    width: 200px;
+    height: 250px;
+    border: solid;
+    margin: 25px;
+    border-color: black;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li p:hover {
+    background-color: rgb(202, 117, 117);
+    color: brown;
+    border-radius: 10px;
+}
+
+ul li p {
+    margin-bottom: 5px;
+    color: black;
+}
+
+header{
+    background-color: rgb(202, 117, 117);
+    text-align: center;
+    border: 5px solid;
+    border-color: rgb(175, 0, 0);
+    border-style: ridge;
+}
+
+body {
+    background-color:rgb(219, 186, 186);
+}
+
+footer {
+    background-color: rgb(202, 117, 117);
+    text-align: center;
+    border: solid;
+}
+
+.hedeh {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 400px;
+    border-color: rgb(245, 59, 59);
+    border: 15px solid;
+    border-style: groove;
+}
+
+.ngelu{
+    text-align: center;
+    margin-left:300px ;
+    margin-right:300px ;
+    margin-top: 30px;
+    border:10px solid;
+    border-color: rgb(202, 117, 117);
+    border-radius: 10px;
+    border-style: groove;
+}
+
+.panvilof{
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left:300px ;
+    margin-right:300px ;
+    margin-top: 30px;
+    border:10px solid;
+    border-radius: 10px;
+    border-color: rgb(202, 117, 117);
+    border-style: groove;
+}
+
+.yntkts {
+    color:rgb(255, 200, 200) ;
+    border: 3px solid;
+}
+
+.h {
+    border: none;
+}
